@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Zawad Atif
 
-<!--
-**NepSauce/NepSauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**He/Him** | BCS @ Dalhousie University | Developer Co-op @ Arctic Wolf | AWS Certified Cloud Practitioner  
+📍 Halifax, Nova Scotia, Canada  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Currently a **Developer Co-op** at **Arctic Wolf**, where I’m exploring the intersection of **cloud systems, machine learning and cybersecurity**.
+---
+
+## 🔧 Skills & Tech Stack
+- **Languages:** Java, C++, C, C#, Python, R, Go, TypeScript, SQL, x86 Assembly
+- **Frontend & GUI:** Java Swing, HTML/CSS, Android XML
+- **Tools:** GitHub, GitLab, Git, Jira
+- **Cloud & DevOps:** AWS Certified Cloud Practitioner, Azure basics    
+---
