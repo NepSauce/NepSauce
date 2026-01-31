@@ -6,6 +6,7 @@ Halifax, Nova Scotia, Canada
 ---
 
 ## About Me
+
 Currently a **Developer Co-op** at **Arctic Wolf**, where I’m exploring the intersection of **cloud systems, machine learning and cybersecurity**.
 ---
 
