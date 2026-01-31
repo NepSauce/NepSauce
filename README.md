@@ -13,6 +13,6 @@ Currently a **Developer Co-op** at **Arctic Wolf**, where I’m exploring the in
 - **Languages:** Java, C++, C, C#, Python, R, Go, TypeScript, SQL, x86 Assembly
 - **Frontend & GUI:** Java Swing, HTML/CSS, Android XML
 - **Tools and Technologies:** Git, GitHub, Gitlab, Android Studio, Visual Studio, Firebase, Gradle, Maven, Bazel, MS Office.
-- **Frameworks and Libraries:** Java Swing, JUnit, Espresso, Apache PDFBox, Discord API, WebSocket API, Google Map SDK, Paypal API.
+- **Frameworks and Libraries:** JUnit, Espresso, Apache PDFBox, Discord API, WebSocket API, Google Map SDK, Paypal API.
   
 ---
