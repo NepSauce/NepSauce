@@ -9,7 +9,6 @@ Halifax, Nova Scotia, Canada
 
 Currently a **Developer Co-op** at **Arctic Wolf**, where I’m exploring the intersection of **cloud systems, machine learning and cybersecurity**.
 
----
 
 ## Skills & Tech Stack
 - **Languages:** Java, C++, C, C#, Python, R, Go, TypeScript, SQL, x86 Assembly
