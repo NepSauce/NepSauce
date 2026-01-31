@@ -1,7 +1,6 @@
 # Hi there, I'm Zawad Atif
 
 **He/Him** | BCS @ Dalhousie University | Developer Co-op @ Arctic Wolf | AWS Certified Cloud Practitioner  
-Halifax, Nova Scotia, Canada  
 
 ---
 
