@@ -1,7 +1,7 @@
 # Hi there, I'm Zawad Atif
 
 **He/Him** | BCS @ Dalhousie University | Developer Co-op @ Arctic Wolf | AWS Certified Cloud Practitioner  
-📍 Halifax, Nova Scotia, Canada  
+Halifax, Nova Scotia, Canada  
 
 ---
 
@@ -9,7 +9,7 @@
 Currently a **Developer Co-op** at **Arctic Wolf**, where I’m exploring the intersection of **cloud systems, machine learning and cybersecurity**.
 ---
 
-## 🔧 Skills & Tech Stack
+## Skills & Tech Stack
 - **Languages:** Java, C++, C, C#, Python, R, Go, TypeScript, SQL, x86 Assembly
 - **Frontend & GUI:** Java Swing, HTML/CSS, Android XML
 - **Tools:** GitHub, GitLab, Git, Jira
