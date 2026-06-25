@@ -1,3 +1,5 @@
+# **[Grease & Brine](https://github.com/grease-n-brine)** &larr; Central Organization for my Code Repositories.
+
 # Hi there, I'm Zawad 
 
 * BCS @ Dalhousie University
@@ -7,5 +9,4 @@
 * AWS Certified Cloud Practitioner
 * Google Data Analytics Specialization 
 
-### Currently consolidating and pushing all my core development work to **[Grease & Brine](https://github.com/grease-n-brine)**.
  
