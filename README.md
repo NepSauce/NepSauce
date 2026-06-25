@@ -4,8 +4,8 @@
 
 * BCS @ Dalhousie University
 * Ex Developer Co-op @ Arctic Wolf
+* Research Lead @ Dalhousie Machine Learning Society
 * Machine Learning Specialization
-* Research Lead @ Dalhousie ML Society
 * AWS Certified Cloud Practitioner
 * Google Data Analytics Specialization 
 
