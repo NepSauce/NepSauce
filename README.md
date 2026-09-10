@@ -3,7 +3,7 @@
 # Hi there, I'm Zawad 
 
 * BCS @ Dalhousie University
-* Upcoming Machine Learning Intern @ DeepSense
+* Machine Learning Intern @ DeepSense
 * Ex Developer Co-op @ Arctic Wolf
 * Research Lead @ Dalhousie Machine Learning Society
 * Machine Learning Specialization
