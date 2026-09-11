@@ -6,7 +6,7 @@
 * Machine Learning Intern @ DeepSense
 * Ex Developer Co-op @ Arctic Wolf
 * Research Lead @ Dalhousie Machine Learning Society
-* Machine Learning Specialization
+* Machine & Reinforcement Learning Specialization
 * AWS Certified Cloud Practitioner
 * Google Data Analytics Specialization 
 
