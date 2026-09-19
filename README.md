@@ -17,9 +17,3 @@
 * Machine Learning Specialization
 * Google Data Analytics Specialization 
 * AWS Certified Cloud Practitioner
-
-## Overview
-
-Undergraduate computer science student specializing in machine learning, state estimation pipelines, and systems architecture. Currently focused on building estimation and control systems, state-space models, and high-performance software infrastructure.
-
- 
