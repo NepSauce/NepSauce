@@ -1,4 +1,4 @@
-# **[Grease & Brine](https://github.com/grease-n-brine)** &larr; Central Organization for my Code Repositories.
+# **[Grease & Brine](https://github.com/grease-n-brine)** &larr; Central Organization for my Repositories.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Research-State%20Estimation%20%C2%B7%20Machine%20Learning%20%C2%B7%20Control%20Theory-ea580c?style=flat" alt="Focus" />
