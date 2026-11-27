@@ -12,8 +12,8 @@
 
 * BCS @ Dalhousie University
 * Machine Learning Intern @ DeepSense
-* Ex Developer Co-op @ Arctic Wolf
-* Research Lead @ Dalhousie Machine Learning Society
+* Technical Research Lead @ Dalhousie Machine Learning Society
+* Ex Developer Co-op @ Arctic Wolf Networks
 * Machine Learning Specialization
 * Google Data Analytics Specialization 
 * AWS Certified Cloud Practitioner
